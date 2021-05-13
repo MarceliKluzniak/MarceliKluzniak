@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarceliKluzniak
 - 👀 I’m interested in hardware & software of smartphones and PC(or laptops)
-- 🌱 I’m currently learning Java, SQL, 3D in blender, software testing.
+- 🌱 I’m currently learning Java, MySQL, 3D in blender, software testing.
 - 💞️ I’m looking to collaborate on software tests.
 - 📫 How to reach me https://www.linkedin.com/in/marceli-klu%C5%BAniak-63391b207/
 
